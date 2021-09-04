@@ -1,3 +1,5 @@
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 使用技術
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -18,7 +20,5 @@
 
 ### 🤝🏻 聯絡我們
 
-<p align="center">
-- Site: https://freeco.cc
-- Email: contact@freeco.cc
-</p>
+#### Site: https://freeco.cc
+#### Email: contact@freeco.cc
